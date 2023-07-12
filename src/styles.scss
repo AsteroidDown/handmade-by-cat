@@ -44,6 +44,10 @@ body {
   font-family: Roboto, "Helvetica Neue", sans-serif;
 }
 
+div {
+  box-sizing: border-box;
+}
+
 :root {
   --white: 226, 227, 225;
 
